@@ -1,0 +1,8 @@
+# Build output and IDE files
+**/target/
+/out/
+.idea/workspace.xml
+*.iml
+.kotlin
+.vscode/
+.DS_Store
