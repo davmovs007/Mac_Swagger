@@ -24,7 +24,7 @@ JavaFX-клиент для REST API трекера задач из проект�
 mvn -pl api-manager-client clean package
 ```
 
-Создаётся `api-manager-client/target/task-flow.jar`. Запустите графическое приложение командой:
+Создаётся `task-flow.jar`. Запустите графическое приложение командой:
 
 ```bash
 java -jar api-manager-client/target/task-flow.jar
